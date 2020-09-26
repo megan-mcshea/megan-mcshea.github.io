@@ -1,3 +1,3 @@
-# megan-mcshea.github.io
+# Megan McShea
 Audiovisual archivist, [Writer](https://www.publishinggenius.com/product/steep-in-the-boil/), Baltimorean
-<br>(under construction...meanwhile, find me on [Twitter](https://twitter.com/meganmcshea))
+<br><br>_(under construction...meanwhile, find me on [Twitter](https://twitter.com/meganmcshea)_)
