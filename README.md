@@ -1,2 +1,3 @@
 # megan-mcshea.github.io
-TK
+Audiovisual archivist, Writer, Baltimorean
+<br>(under construction)
