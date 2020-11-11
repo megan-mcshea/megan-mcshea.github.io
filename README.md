@@ -3,4 +3,4 @@
 [Writer](https://www.publishinggenius.com/product/steep-in-the-boil/)<br> 
 [Baltimorean](https://www.airbnb.com/rooms/508489)<br>
 <br>
-_(under construction...meanwhile, find me on [Twitter](https://twitter.com/meganmcshea)_)
+_(under construction...meanwhile, find me on [Twitter](https://twitter.com/meganmcshea), or send me an [email](mailto:megan.mcshea@gmail.com)_)
