@@ -27,10 +27,12 @@ h1 {
 }
 h2 {
     font-size:3vmin;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
     color:#262945;
 }
 p {
     font-size: 2vmin;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
     color: #363945;
 }
 footer {
@@ -41,6 +43,7 @@ footer {
 
 ul.posts { 
     margin: 20px auto 40px; 
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
     font-size: 3vmin;
 }
 
