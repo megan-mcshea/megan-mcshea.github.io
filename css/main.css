@@ -28,6 +28,7 @@ h1 {
 h2 {
     font-size:3vmin;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-weight: normal;
     color:#262945;
 }
 p {
