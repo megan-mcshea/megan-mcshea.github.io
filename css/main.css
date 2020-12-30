@@ -1,7 +1,7 @@
 body {
     margin: 60px auto;
     width: 70%;
-    background-color: #b1b3b4
+    background-color: #b1b3b4;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -23,16 +23,16 @@ a:hover {
 h1 {
     font-size: 5vmin;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    color: #235886
+    color: #235886;
 }
 p {
     font-size: 3vmin;
-    color: #333;
+    color: #363945;
 }
 footer {
     border-top: 1px solid #235886;
     font-size: 2vmin
-    color: #EFE1CE
+    color: #EFE1CE;
 }
 
 ul.posts { 
