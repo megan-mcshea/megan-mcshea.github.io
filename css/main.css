@@ -15,7 +15,7 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: #FOEDE5;
+    color: #F0EDE5;
 }
 a:hover {
     text-decoration: underline;
@@ -32,7 +32,7 @@ p {
 footer {
     border-top: 1px solid #235886;
     font-size: 2vmin;
-    color: #FOEDE5;
+    color: #F0EDE5;
 }
 
 ul.posts { 
