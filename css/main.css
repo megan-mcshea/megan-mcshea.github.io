@@ -28,7 +28,7 @@ h1 {
 h2 {
     font-size:3vmin;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    font-weight: normal;
+    font-weight: bold;
     color:#262945;
 }
 p {
@@ -50,4 +50,5 @@ ul.posts {
 
 ul.posts li {
     list-style: none;
+    font-family: 'Helvetica', 'Arial', 'Sans-Serif';
 }
