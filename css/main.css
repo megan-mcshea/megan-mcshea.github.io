@@ -32,10 +32,15 @@ h2 {
     color:#262945;
 }
 p {
-    font-size: 2.5vmin;
+    font-size: 2vmin;
     font-family:'Verdana', 'Sans-Serif';
     color: #363945;
 }
+ul {
+    font-size: 2vmin;
+    font-family:'Verdana', 'Sans-serif';
+}
+
 footer {
     border-top: 1px solid #235886;
     font-size: 2vmin;
@@ -45,7 +50,7 @@ footer {
 ul.posts { 
     margin: 20px auto 40px; 
     font-family:'Verdana', 'Sans-Serif';
-    font-size: 2.5vmin;
+    font-size: 2vmin;
 }
 
 ul.posts li {
