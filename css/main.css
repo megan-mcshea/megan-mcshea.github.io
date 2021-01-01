@@ -4,7 +4,7 @@ body {
     background-color: #660000;
 }
 nav ul, footer ul {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family:'Helvetica', 'Sans-Serif';
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -22,12 +22,12 @@ a:hover {
 }
 h1 {
     font-size: 5vmin;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family:'Helvetica', 'Sans-Serif';
     color: #FF9933;
 }
 h2 {
     font-size:3vmin;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family:'Helvetica', 'Sans-Serif';
     font-weight: bold;
     color:#FF0033;
 }
@@ -44,6 +44,7 @@ ul {
 footer {
     border-top: 1px solid #FF9933;
     font-size: 2vmin;
+    font-family:'Verdana', 'Sans-serif';
     color: #F0EDE5;
 }
 
