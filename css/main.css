@@ -15,7 +15,7 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: #FFFFCC;
+    color: #CCFFFF;
 }
 a:hover {
     text-decoration: underline;
@@ -34,12 +34,12 @@ h2 {
 p {
     font-size: 2.2vmin;
     font-family:'Verdana', 'Sans-Serif';
-    color: #E9FD9A;
+    color: #FFFFCC;
 }
 ul {
     font-size: 2.2vmin;
     font-family:'Verdana', 'Sans-serif';
-    color: #E9FD9A;
+    color: #FFFFCC;
 }
 
 footer {
