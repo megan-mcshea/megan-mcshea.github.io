@@ -6,12 +6,9 @@
 # Online resources
 
 
-### Introduction to AV Assessment
-
-
-### DPOE-N workshop presented by Megan McShea on May 9, 2023
+### Links shared in "Introduction to AV Assessment," DPOE-N workshop presented by Megan McShea on 5/9/23
    
-### Table of contents  
+#### Table of contents  
    [Introduction](https://github.com/megan-mcshea/megan-mcshea.github.io/edit/mm-pages/AVAssessment.md#introduction)  
    [Part 1: Recognizing formats](https://github.com/megan-mcshea/megan-mcshea.github.io/blob/mm-pages/AVAssessment.md#part-1-recognizing-formats)  
    [Part 2: Understanding copies](https://github.com/megan-mcshea/megan-mcshea.github.io/edit/mm-pages/AVAssessment.md#part-2-understanding-copies)  
