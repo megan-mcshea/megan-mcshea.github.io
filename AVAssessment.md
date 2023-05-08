@@ -85,7 +85,8 @@
 * [Images from https://psap.librar y.illinois.edu/collec tion-id-guide/film](https://psap.library.illinois.edu/collection-id-guide/film)
 
 
-#### Priority issues: Nitrate
+#### Priority issues: 
+   #####Nitrate
 
 
 
@@ -200,5 +201,5 @@
 [Media Preservation and Digitization Principles](https://scholarworks.iu.edu/dspace/bitstream/handle/2022/27446/casey_principles_final_20220326_.pdf?sequence=1&isAllowed=y) (Mike Casey, 2022)
 
   </div><!-- /.blurb -->
-  Resources shared...
+
   
