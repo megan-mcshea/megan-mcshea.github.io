@@ -1,8 +1,5 @@
 <div class="blurb">
 
-<!-- Yay, no errors, warnings, or alerts! -->
-
-
 # Online resources
 
 
