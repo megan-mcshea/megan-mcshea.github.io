@@ -134,7 +134,7 @@
 * [A Guide to Approaching Audiovisual Digitization for Artists and Arts and Culture Organizations](https://bavc.org/wp-content/uploads/2019/07/BAVC-Guide-To-Audiovisual-Preservation-2019.pdf) (video, BAVC, ca. 2018)
 
 
-### Resources on audiovisual condition issues
+### Learn more about audiovisual collection care
 
 
 * [Handling and Storage of AV Carriers](https://iasa-web.org/tc05/handling-storage-audio-video-carriers), IASA Technical Committee, 2014
