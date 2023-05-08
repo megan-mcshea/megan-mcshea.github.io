@@ -1,5 +1,6 @@
 <div class="blurb">
-## Online resources
+
+# Online resources
 
 
 ### Introduction to AV Assessment
@@ -11,15 +12,19 @@
 ### Megan McShea
 
 
-## Introduction
+[TOC]
+
+
+
+## Introduction {#introduction}
 
 “[Why Media Preservation Can’t Wait: The Gathering Storm](https://scholarworks.iu.edu/dspace/bitstream/handle/2022/27255/casey_iasa_journal_44_part3.pdf?sequence=1&isAllowed=y)” Mike Casey, IASA Journal no 44, 2015
 
 
-## Part 1: Recognizing formats
+## Part 1: Recognizing formats {#part-1-recognizing-formats}
 
 
-### Links from slides
+### Links from slides {#links-from-slides}
 
 
 
@@ -31,7 +36,7 @@
 * [https://psap.library.illinois.edu/format-id-guide/phonodisc](https://psap.library.illinois.edu/format-id-guide/phonodisc)
 
 
-### General resources
+### General resources {#general-resources}
 
 
 
@@ -41,7 +46,7 @@
 * [Museum of Obsolete Media](https://obsoletemedia.org/obsolescence-decade/)
 
 
-### Format-specific resources
+### Format-specific resources {#format-specific-resources}
 
 
 
@@ -50,10 +55,10 @@
 * [The Film Preservation Guide, The Basics for Archives, Libraries, and Museums](https://www.filmpreservation.org/preservation-basics/the-film-preservation-guide-download) (NFPF, 2004)
 
 
-## Part 2: Understanding copies
+## Part 2: Understanding copies {#part-2-understanding-copies}
 
 
-### Links from slides
+### Links from slides {#links-from-slides}
 
 
 
@@ -61,7 +66,7 @@
 * [PBCore Generations vocabulary](http://pbcore.org/pbcore-controlled-vocabularies/instantiationgenerations-vocabulary/) 
 
 
-### Additional Resources
+### Additional Resources {#additional-resources}
 
 
 
@@ -72,10 +77,10 @@
 * “[The Sweetest Sound](https://si-siris.blogspot.com/2013/03/the-sweetest-sound.html)” (on sync-sound technology), Smithsonian Collections Blog (Daisy Njoku, 2013)
 
 
-## Part 3: Condition triage
+## Part 3: Condition triage {#part-3-condition-triage}
 
 
-### Links from slides
+### Links from slides {#links-from-slides}
 
 
 
@@ -85,8 +90,10 @@
 * [Images from https://psap.librar y.illinois.edu/collec tion-id-guide/film](https://psap.library.illinois.edu/collection-id-guide/film)
 
 
-#### Priority issues: 
-   #####Nitrate
+### Priority issues
+
+
+#### Nitrate
 
 
 
@@ -94,7 +101,7 @@
 * AMIA Nitrate Committee[Nitrate identification and handling guide](https://amianet.org/wp-content/uploads/Resource-Nitrate-Identifying-and-Handling.pdf)
 
 
-#### Priority issues: Vinegar syndrome
+#### Vinegar syndrome
 
 
 
@@ -102,21 +109,21 @@
 * Freeze it:[ filmforever.org](http://www.filmforever.org/)
 
 
-#### Priority issues: Mold
+#### Mold
 
 
 
 * [A Guide to Approaching Audiovisual Digitization for Artists and Arts and Culture Organizations](https://bavc.org/wp-content/uploads/2019/07/BAVC-Guide-To-Audiovisual-Preservation-2019.pdf) (video, BAVC, ca. 2018)
 
 
-#### Priority issues: Deteriorating lacquer discs
+#### Deteriorating lacquer discs
 
 
 
 * [Audio Preservation with IRENE](https://www.nedcc.org/audio-preservation/irene) (NEDCC.org)
 
 
-#### Priority issues: sticky shed
+#### Sticky shed syndrome
 
 
 
@@ -126,17 +133,17 @@
 * [A Guide to Approaching Audiovisual Digitization for Artists and Arts and Culture Organizations](https://bavc.org/wp-content/uploads/2019/07/BAVC-Guide-To-Audiovisual-Preservation-2019.pdf) (video, BAVC, ca. 2018)
 
 
-### Resources on audiovisual condition issues
+### Resources on audiovisual condition issues {#resources-on-audiovisual-condition-issues}
 
 
-#### General
+#### General {#general}
 
 
 
 * [Handling and Storage of AV Carriers](https://iasa-web.org/tc05/handling-storage-audio-video-carriers), IASA Technical Committee, 2014
 
 
-#### Film
+#### Film {#film}
 
 
 
@@ -145,7 +152,7 @@
 * “[Learn About Film](https://filmcare.org/about_film)”, The Image Permanence Institute’s filmcare.org 
 
 
-#### Audio 
+#### Audio  {#audio}
 
 
 
@@ -153,7 +160,7 @@
 * [FACET Downloads](https://dlib.indiana.edu/projects/sounddirections/facet/downloads.shtml): Format Characteristics and Preservation Problems
 
 
-#### Video
+#### Video {#video}
 
 
 
@@ -161,10 +168,10 @@
 * [A Guide to Approaching Audiovisual Digitization for Artists and Arts and Culture Organizations](https://bavc.org/wp-content/uploads/2019/07/BAVC-Guide-To-Audiovisual-Preservation-2019.pdf) (video, BAVC, ca. 2018)
 
 
-## Part 4: Data gathering tools and methods
+## Part 4: Data gathering tools and methods {#part-4-data-gathering-tools-and-methods}
 
 
-### Tools
+### Tools {#tools}
 
 
 
@@ -187,7 +194,7 @@
     * [Smithsonian's Audiovisual Media Preservation Initiative home page](https://siarchives.si.edu/what-we-do/avmpi)
 
 
-### Item-level inspection training resources
+### Item-level inspection training resources {#item-level-inspection-training-resources}
 
 
 
@@ -196,7 +203,7 @@
 * [NYU Visual and Playback Inspection Ratings System](https://guides.nyu.edu/media-preservation#s-lg-box-24646329) (VIPIRS)  
 
 
-## Conclusion
+## Conclusion {#conclusion}
 
 [Media Preservation and Digitization Principles](https://scholarworks.iu.edu/dspace/bitstream/handle/2022/27446/casey_principles_final_20220326_.pdf?sequence=1&isAllowed=y) (Mike Casey, 2022)
 
