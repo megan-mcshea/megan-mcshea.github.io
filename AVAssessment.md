@@ -5,7 +5,7 @@
 
 ### Links shared in "Introduction to AV Assessment," DPOE-N workshop presented by Megan McShea on 5/9/23
    
-#### Table of contents  
+#### *Table of contents*
    [Introduction](#introduction)  
    [Part 1: Recognizing formats](#part-1-recognizing-formats)  
    [Part 2: Understanding copies](#part-2-understanding-copies)  
