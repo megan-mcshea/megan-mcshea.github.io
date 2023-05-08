@@ -1,30 +1,4 @@
 <div class="blurb">
-	<h1>Introduction to Audiovisual Assessment Resources</h1>
-	<h2>Resources shared for the May 9, 2023 workshop hosted by the Digital Preservation Education and Outreach Network</h2>
- <br>
-	<!-----
-
-Yay, no errors, warnings, or alerts!
-
-Conversion time: 0.83 seconds.
-
-
-Using this Markdown file:
-
-1. Paste this output into your source file.
-2. See the notes and action items below regarding this conversion run.
-3. Check the rendered output (headings, lists, code blocks, tables) for proper
-   formatting and use a linkchecker before you publish this page.
-
-Conversion notes:
-
-* Docs to Markdown version 1.0β34
-* Mon May 08 2023 08:09:43 GMT-0700 (PDT)
-* Source doc: AV Assessment Online Resources
------>
-
-
-
 ## Online resources
 
 
