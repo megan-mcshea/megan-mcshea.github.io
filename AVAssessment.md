@@ -11,11 +11,13 @@
 
 ### DPOE-N workshop presented by Megan McShea on May 9, 2023
    
+### Table of contents  
    [Introduction](https://github.com/megan-mcshea/megan-mcshea.github.io/edit/mm-pages/AVAssessment.md#introduction)  
    [Part 1: Recognizing formats](https://github.com/megan-mcshea/megan-mcshea.github.io/blob/mm-pages/AVAssessment.md#part-1-recognizing-formats)  
    [Part 2: Understanding copies](https://github.com/megan-mcshea/megan-mcshea.github.io/edit/mm-pages/AVAssessment.md#part-2-understanding-copies)  
    [Part 3: Condition triage](https://github.com/megan-mcshea/megan-mcshea.github.io/edit/mm-pages/AVAssessment.md#part-3-condition-triage)
    [Part 4: Data gathering tools and methods](https://github.com/megan-mcshea/megan-mcshea.github.io/edit/mm-pages/AVAssessment.md#part-4-data-gathering-tools-and-methods)  
+   [Conclusion](https://github.com/megan-mcshea/megan-mcshea.github.io/blob/mm-pages/AVAssessment.md#conclusion)  
      
 
 ## Introduction
@@ -95,7 +97,7 @@
 ### Priority issues
 
 
-#### Nitrate
+#### *Nitrate*
 
 
 
@@ -103,7 +105,7 @@
 * AMIA Nitrate Committee[Nitrate identification and handling guide](https://amianet.org/wp-content/uploads/Resource-Nitrate-Identifying-and-Handling.pdf)
 
 
-#### Vinegar syndrome
+#### *Vinegar syndrome*
 
 
 
@@ -111,21 +113,21 @@
 * Freeze it:[ filmforever.org](http://www.filmforever.org/)
 
 
-#### Mold
+#### *Mold*
 
 
 
 * [A Guide to Approaching Audiovisual Digitization for Artists and Arts and Culture Organizations](https://bavc.org/wp-content/uploads/2019/07/BAVC-Guide-To-Audiovisual-Preservation-2019.pdf) (video, BAVC, ca. 2018)
 
 
-#### Deteriorating lacquer discs
+#### *Deteriorating lacquer discs*
 
 
 
 * [Audio Preservation with IRENE](https://www.nedcc.org/audio-preservation/irene) (NEDCC.org)
 
 
-#### Sticky shed syndrome
+#### *Sticky shed syndrome*
 
 
 
@@ -136,10 +138,6 @@
 
 
 ### Resources on audiovisual condition issues
-
-
-#### General
-
 
 
 * [Handling and Storage of AV Carriers](https://iasa-web.org/tc05/handling-storage-audio-video-carriers), IASA Technical Committee, 2014
@@ -209,7 +207,8 @@
 
 [Media Preservation and Digitization Principles](https://scholarworks.iu.edu/dspace/bitstream/handle/2022/27446/casey_principles_final_20220326_.pdf?sequence=1&isAllowed=y) (Mike Casey, 2022)
 
-
+*links working as of May 8, 2023*
+   
   </div><!-- /.blurb -->
 
   
