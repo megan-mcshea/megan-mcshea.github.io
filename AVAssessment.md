@@ -6,12 +6,12 @@
 ### Links shared in "Introduction to AV Assessment," DPOE-N workshop presented by Megan McShea on 5/9/23
    
 #### Table of contents  
-   [Introduction](https://github.com/megan-mcshea/megan-mcshea.github.io/edit/mm-pages/AVAssessment.md#introduction)  
-   [Part 1: Recognizing formats](https://github.com/megan-mcshea/megan-mcshea.github.io/blob/mm-pages/AVAssessment.md#part-1-recognizing-formats)  
-   [Part 2: Understanding copies](https://github.com/megan-mcshea/megan-mcshea.github.io/edit/mm-pages/AVAssessment.md#part-2-understanding-copies)  
-   [Part 3: Condition triage](https://github.com/megan-mcshea/megan-mcshea.github.io/edit/mm-pages/AVAssessment.md#part-3-condition-triage)  
-   [Part 4: Data gathering tools and methods](https://github.com/megan-mcshea/megan-mcshea.github.io/edit/mm-pages/AVAssessment.md#part-4-data-gathering-tools-and-methods)  
-   [Conclusion](https://github.com/megan-mcshea/megan-mcshea.github.io/blob/mm-pages/AVAssessment.md#conclusion)  
+   [Introduction](#introduction)  
+   [Part 1: Recognizing formats](#part-1-recognizing-formats)  
+   [Part 2: Understanding copies](#part-2-understanding-copies)  
+   [Part 3: Condition triage](#part-3-condition-triage)  
+   [Part 4: Data gathering tools and methods](#part-4-data-gathering-tools-and-methods)  
+   [Conclusion](#conclusion)  
      
 
 ## Introduction
