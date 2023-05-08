@@ -10,6 +10,13 @@
 
 
 ### DPOE-N workshop presented by Megan McShea on May 9, 2023
+   
+   [Introduction](https://github.com/megan-mcshea/megan-mcshea.github.io/edit/mm-pages/AVAssessment.md#introduction)  
+   [Part 1: Recognizing formats](https://github.com/megan-mcshea/megan-mcshea.github.io/blob/mm-pages/AVAssessment.md#part-1-recognizing-formats)  
+   [Part 2: Understanding copies](https://github.com/megan-mcshea/megan-mcshea.github.io/edit/mm-pages/AVAssessment.md#part-2-understanding-copies)  
+   [Part 3: Condition triage](https://github.com/megan-mcshea/megan-mcshea.github.io/edit/mm-pages/AVAssessment.md#part-3-condition-triage)
+   [Part 4: Data gathering tools and methods](https://github.com/megan-mcshea/megan-mcshea.github.io/edit/mm-pages/AVAssessment.md#part-4-data-gathering-tools-and-methods)  
+     
 
 ## Introduction
 
