@@ -161,6 +161,9 @@
 * Videotape identification and preservation, [Texas Commission on the Arts, 2004](https://www.arts.texas.gov/wp-content/uploads/2012/04/video.pdf)
 * [A Guide to Approaching Audiovisual Digitization for Artists and Arts and Culture Organizations](https://bavc.org/wp-content/uploads/2019/07/BAVC-Guide-To-Audiovisual-Preservation-2019.pdf) (video, BAVC, ca. 2018)
 
+#### Optical discs
+   
+* [An Optical Media Preservation Strategy for NYU Fales Library](https://docslib.org/doc/12405741/an-optical-media-preservation-strategy-for-new-york-universitys) (Annie Schweikert, 2018)
 
 ## Part 4: Data gathering tools and methods
 
@@ -198,6 +201,14 @@
 
 
 ## Conclusion
+   
+### What's next?
+   
+* [Pragmatic Audiovisual Preservation](https://www.dpconline.org/docs/technology-watch-reports/2381-pragmatic-audiovisual-preservation-member-preview/file) (Ashley Blewer, Digital Preservation, 2020)
+* [CAW: All the kits](https://communityarchiving.org/2023/04/03/all-the-kits-guides-videos-equipment-lists/)
+* [XFR Collective, workflows section of resources page](https://www.xfrcollective.org/resources/)
+* [No Time To Wait symposium](https://mediaarea.net/NoTimeToWait)
+
 
 [Media Preservation and Digitization Principles](https://scholarworks.iu.edu/dspace/bitstream/handle/2022/27446/casey_principles_final_20220326_.pdf?sequence=1&isAllowed=y) (Mike Casey, 2022)
 
