@@ -73,3 +73,7 @@ ul.posts li {
     font-family: 'Verdana', 'Sans-Serif';
     color: #E7D5A7;
 }
+
+#double li {
+  width: 50%;
+}
