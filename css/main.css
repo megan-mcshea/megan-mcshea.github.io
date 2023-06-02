@@ -23,6 +23,11 @@ column {
   width: 50%;
   padding: 10px;
 }
+.columns{
+    float: left;
+    position: relative;
+    margin-right: 20px;
+}
 a {
     text-decoration: none;
     color: #FEA552;
