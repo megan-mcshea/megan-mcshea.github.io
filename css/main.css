@@ -23,7 +23,7 @@ column {
   width: 50%;
   padding: 10px;
 }
-.columns{
+columns{
     float: left;
     position: relative;
     margin-right: 20px;
