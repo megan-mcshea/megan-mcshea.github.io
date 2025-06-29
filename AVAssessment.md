@@ -5,9 +5,9 @@
 
 ### Links shared in "Introduction to AV Assessment," DPOE-N workshop presented by Megan McShea on 5/9/23
 
-[Download PDF of slides](https://github.com/megan-mcshea/megan-mcshea.github.io/blob/mm-pages/Intro%20to%20AV%20Assessment%20slides.pdf)
-[Full recording available online](https://talks.pratt.edu/media/t/1_navk62r6)
-[Audio en espan&#771;ol](https://talks.pratt.edu/media/t/1_cneqpy4a)
+   [Download PDF of slides](https://github.com/megan-mcshea/megan-mcshea.github.io/blob/mm-pages/Intro%20to%20AV%20Assessment%20slides.pdf)
+   [Full recording available online](https://talks.pratt.edu/media/t/1_navk62r6)
+   [Audio en espan&#771;ol](https://talks.pratt.edu/media/t/1_cneqpy4a)
    
    
 #### *Table of contents*
